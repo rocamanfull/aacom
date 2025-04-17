@@ -1,0 +1,21 @@
+d=z & ";"& Page7.pallet1.Text & ";"& Page7.temp1.Text & ";"& Page7.plu1.Text & ";"& Page7.promedio1.Text & ";"& Page7.Min1.Text & ";"& Page7.Max1.Text
+'	
+	e=z & ";"& Page4.pallet2.Text & ";"& Page4.temp2.Text & ";"& Page4.plu2.Text & ";"& Page4.promedio2.Text & ";"& Page4.Min2.Text & ";"& Page4.Max2.Text
+	f=z & ";"& Page5.pallet2.Text & ";"& Page.temp2.Text & ";"& Page6.plu2.Text & ";"& Page6.promedio2.Text & ";"& Page6.Min2.Text & ";"& Page6.Max2.Text
+	g=z & ";"& Page6.pallet2.Text & ";"& Page7.temp2.Text & ";"& Page7.plu2.Text & ";"& Page7.promedio2.Text & ";"& Page7.Min2.Text & ";"& Page7.Max2.Text
+'	
+	h=z & ";"& Page4.pallet3.Text & ";"& Page4.temp3.Text & ";"& Page4.plu3.Text & ";"& Page4.promedio3.Text & ";"& Page4.Min3.Text & ";"& Page4.Max3.Text
+     i=z & ";"& Page6.pallet3.Text & ";"& Page6.temp3.Text & ";"& Page6.plu3.Text & ";"& Page6.promedio3.Text & ";"& Page6.Min3.Text & ";"& Page6.Max3.Text''
+	'j=z & ";"& Page7.pallet3.Text & ";"& Page7.temp3.Text & ";"& Page7.plu3.Text & ";"& Page7.promedio3.Text & ";"& Page7.Min3.Text & ";"& Page7.Max3.Text
+'	
+	k=z & ";"& Page4.pallet4.Text & ";"& Page4.temp4.Text & ";"& Page4.plu4.Text & ";"& Page4.promedio4.Text & ";"& Page4.Min4.Text & ";"& Page4.Max4.Text
+	m=z & ";"& Page6.pallet4.Text & ";"& Page6.temp4.Text & ";"& Page6.plu4.Text & ";"& Page6.promedio4.Text & ";"& Page6.Min4.Text & ";"& Page6.Max4.Text
+	'n=z & ";"& Page7.pallet4.Text & ";"& Page7.temp4.Text & ";"& Page7.plu4.Text & ";"& Page7.promedio4.Text & ";"& Page7.Min4.Text & ";"& Page7.Max4.Text
+'	
+	o=z & ";"& Page4.pallet5.Text & ";"& Page4.temp5.Text & ";"& Page4.plu5.Text & ";"& Page4.promedio5.Text & ";"& Page4.Min5.Text & ";"& Page4.Max5.Text
+	p=z & ";"& Page6.pallet5.Text & ";"& Page6.temp5.Text & ";"& Page6.plu5.Text & ";"& Page6.promedio5.Text & ";"& Page6.Min5.Text & ";"& Page6.Max5.Text
+	'q=z & ";"& Page7.pallet5.Text & ";"& Page7.temp5.Text & ";"& Page7.plu5.Text & ";"& Page7.promedio5.Text & ";"& Page7.Min5.Text & ";"& Page7.Max5.Text
+'	
+	r=z & ";"& Page4.pallet6.Text & ";"& Page4.temp6.Text & ";"& Page4.plu6.Text & ";"& Page4.promedio6.Text & ";"& Page4.Min6.Text & ";"& Page4.Max6.Text
+	s=z & ";"& Page6.pallet6.Text & ";"& Page6.temp6.Text & ";"& Page6.plu6.Text & ";"& Page6.promedio6.Text & ";"& Page6.Min6.Text & ";"& Page6.Max6.Text
+	't=z & ";"& Page7.pallet6.Text & ";"& Page7.temp6.Text & ";"& Page7.plu6.Text & ";"& Page7.promedio6.Text & ";"& Page7.Min6.Text & ";"& Page7.Max6.Text

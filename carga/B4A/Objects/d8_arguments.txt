@@ -1,0 +1,205 @@
+--release
+--output
+C:\Users\user2\nuevos 2025\carga6estable3copia\carga\B4A\Objects
+--lib
+C:\android\platforms\android-33\android.jar
+C:\android\tools\..\extras\b4a_local\unpacked-b4ashared-63837488556000\dex_v1\b4ashared.zip
+c:\android\tools\..\extras\b4a_remote\androidx\core\core\1.9.0\unpacked-core-1.9.0\jars\classes.zip
+c:\android\tools\..\extras\b4a_remote\androidx\core\core-ktx\1.9.0\unpacked-core-ktx-1.9.0\jars\classes.zip
+c:\android\tools\..\extras\b4a_remote\androidx\annotation\annotation-experimental\1.3.0\unpacked-annotation-experimental-1.3.0\jars\classes.zip
+c:\android\tools\..\extras\b4a_remote\androidx\lifecycle\lifecycle-runtime\2.5.1\unpacked-lifecycle-runtime-2.5.1\jars\classes.zip
+c:\android\tools\..\extras\b4a_remote\androidx\versionedparcelable\versionedparcelable\1.1.1\unpacked-versionedparcelable-1.1.1\jars\classes.zip
+C:\android\tools\..\extras\b4a_local\unpacked-camera2-63837488558000\dex_v1\camera2.zip
+C:\android\tools\..\extras\b4a_local\unpacked-core-63837488558000\dex_v1\core.zip
+C:\android\tools\..\extras\b4a_local\unpacked-dateutils-63837488558000\dex_v1\dateutils.zip
+C:\android\tools\..\extras\b4a_local\unpacked-dialogs2-63764958090000\dex_v1\dialogs2.zip
+C:\android\tools\..\extras\b4a_local\unpacked-net-63707030002000\dex_v1\net.zip
+C:\android\tools\..\extras\b4a_local\unpacked-pdfwriter-63469363602000\dex_v1\pdfwriter.zip
+C:\android\tools\..\extras\b4a_local\unpacked-phone-63837488558000\dex_v1\phone.zip
+C:\android\tools\..\extras\b4a_local\unpacked-runtimepermissions.androidx-63837488558000\dex_v1\runtimepermissions.zip
+C:\android\tools\..\extras\b4a_local\unpacked-xui-63837488558000\dex_v1\xui.zip
+C:\android\tools\..\extras\b4a_local\unpacked-javaobject-63837488558000\dex_v1\javaobject.zip
+C:\android\tools\..\extras\b4a_local\unpacked-bitmapcreator-63837488558000\dex_v1\bitmapcreator.zip
+C:\android\tools\..\extras\b4a_local\unpacked-xcustomlistview-63837488558000\dex_v1\xcustomlistview.zip
+C:\android\tools\..\extras\b4a_local\unpacked-ime-63837488558000\dex_v1\ime.zip
+C:\android\tools\..\extras\b4a_local\unpacked-stringutils-63837488558000\dex_v1\stringutils.zip
+C:\android\tools\..\extras\b4a_local\unpacked-remotelogger-63837488558000\dex_v1\remotelogger.zip
+c:\android\tools\..\extras\b4a_remote\androidx\annotation\annotation\1.5.0\annotation-1.5.0.zip
+c:\android\tools\..\extras\b4a_remote\androidx\arch\core\core-common\2.1.0\core-common-2.1.0.zip
+c:\android\tools\..\extras\b4a_remote\androidx\lifecycle\lifecycle-common\2.5.1\lifecycle-common-2.5.1.zip
+c:\android\tools\..\extras\b4a_remote\androidx\lifecycle\lifecycle-common-java8\2.5.1\lifecycle-common-java8-2.5.1.zip
+c:\android\tools\..\extras\b4a_remote\androidx\collection\collection\1.2.0\collection-1.2.0.zip
+C:\Users\user2\nuevos 2025\carga6estable3copia\carga\B4A\Objects\dexed\androidx\annotation\experimental\R$attr.dex
+C:\Users\user2\nuevos 2025\carga6estable3copia\carga\B4A\Objects\dexed\androidx\annotation\experimental\R$color.dex
+C:\Users\user2\nuevos 2025\carga6estable3copia\carga\B4A\Objects\dexed\androidx\annotation\experimental\R$dimen.dex
+C:\Users\user2\nuevos 2025\carga6estable3copia\carga\B4A\Objects\dexed\androidx\annotation\experimental\R$drawable.dex
+C:\Users\user2\nuevos 2025\carga6estable3copia\carga\B4A\Objects\dexed\androidx\annotation\experimental\R$id.dex
+C:\Users\user2\nuevos 2025\carga6estable3copia\carga\B4A\Objects\dexed\androidx\annotation\experimental\R$integer.dex
+C:\Users\user2\nuevos 2025\carga6estable3copia\carga\B4A\Objects\dexed\androidx\annotation\experimental\R$layout.dex
+C:\Users\user2\nuevos 2025\carga6estable3copia\carga\B4A\Objects\dexed\androidx\annotation\experimental\R$string.dex
+C:\Users\user2\nuevos 2025\carga6estable3copia\carga\B4A\Objects\dexed\androidx\annotation\experimental\R$style.dex
+C:\Users\user2\nuevos 2025\carga6estable3copia\carga\B4A\Objects\dexed\androidx\annotation\experimental\R$styleable.dex
+C:\Users\user2\nuevos 2025\carga6estable3copia\carga\B4A\Objects\dexed\androidx\annotation\experimental\R$xml.dex
+C:\Users\user2\nuevos 2025\carga6estable3copia\carga\B4A\Objects\dexed\androidx\annotation\experimental\R.dex
+C:\Users\user2\nuevos 2025\carga6estable3copia\carga\B4A\Objects\dexed\androidx\core\R$attr.dex
+C:\Users\user2\nuevos 2025\carga6estable3copia\carga\B4A\Objects\dexed\androidx\core\R$color.dex
+C:\Users\user2\nuevos 2025\carga6estable3copia\carga\B4A\Objects\dexed\androidx\core\R$dimen.dex
+C:\Users\user2\nuevos 2025\carga6estable3copia\carga\B4A\Objects\dexed\androidx\core\R$drawable.dex
+C:\Users\user2\nuevos 2025\carga6estable3copia\carga\B4A\Objects\dexed\androidx\core\R$id.dex
+C:\Users\user2\nuevos 2025\carga6estable3copia\carga\B4A\Objects\dexed\androidx\core\R$integer.dex
+C:\Users\user2\nuevos 2025\carga6estable3copia\carga\B4A\Objects\dexed\androidx\core\R$layout.dex
+C:\Users\user2\nuevos 2025\carga6estable3copia\carga\B4A\Objects\dexed\androidx\core\R$string.dex
+C:\Users\user2\nuevos 2025\carga6estable3copia\carga\B4A\Objects\dexed\androidx\core\R$style.dex
+C:\Users\user2\nuevos 2025\carga6estable3copia\carga\B4A\Objects\dexed\androidx\core\R$styleable.dex
+C:\Users\user2\nuevos 2025\carga6estable3copia\carga\B4A\Objects\dexed\androidx\core\R$xml.dex
+C:\Users\user2\nuevos 2025\carga6estable3copia\carga\B4A\Objects\dexed\androidx\core\R.dex
+C:\Users\user2\nuevos 2025\carga6estable3copia\carga\B4A\Objects\dexed\androidx\core\ktx\R$attr.dex
+C:\Users\user2\nuevos 2025\carga6estable3copia\carga\B4A\Objects\dexed\androidx\core\ktx\R$color.dex
+C:\Users\user2\nuevos 2025\carga6estable3copia\carga\B4A\Objects\dexed\androidx\core\ktx\R$dimen.dex
+C:\Users\user2\nuevos 2025\carga6estable3copia\carga\B4A\Objects\dexed\androidx\core\ktx\R$drawable.dex
+C:\Users\user2\nuevos 2025\carga6estable3copia\carga\B4A\Objects\dexed\androidx\core\ktx\R$id.dex
+C:\Users\user2\nuevos 2025\carga6estable3copia\carga\B4A\Objects\dexed\androidx\core\ktx\R$integer.dex
+C:\Users\user2\nuevos 2025\carga6estable3copia\carga\B4A\Objects\dexed\androidx\core\ktx\R$layout.dex
+C:\Users\user2\nuevos 2025\carga6estable3copia\carga\B4A\Objects\dexed\androidx\core\ktx\R$string.dex
+C:\Users\user2\nuevos 2025\carga6estable3copia\carga\B4A\Objects\dexed\androidx\core\ktx\R$style.dex
+C:\Users\user2\nuevos 2025\carga6estable3copia\carga\B4A\Objects\dexed\androidx\core\ktx\R$styleable.dex
+C:\Users\user2\nuevos 2025\carga6estable3copia\carga\B4A\Objects\dexed\androidx\core\ktx\R$xml.dex
+C:\Users\user2\nuevos 2025\carga6estable3copia\carga\B4A\Objects\dexed\androidx\core\ktx\R.dex
+C:\Users\user2\nuevos 2025\carga6estable3copia\carga\B4A\Objects\dexed\androidx\lifecycle\runtime\R$attr.dex
+C:\Users\user2\nuevos 2025\carga6estable3copia\carga\B4A\Objects\dexed\androidx\lifecycle\runtime\R$color.dex
+C:\Users\user2\nuevos 2025\carga6estable3copia\carga\B4A\Objects\dexed\androidx\lifecycle\runtime\R$dimen.dex
+C:\Users\user2\nuevos 2025\carga6estable3copia\carga\B4A\Objects\dexed\androidx\lifecycle\runtime\R$drawable.dex
+C:\Users\user2\nuevos 2025\carga6estable3copia\carga\B4A\Objects\dexed\androidx\lifecycle\runtime\R$id.dex
+C:\Users\user2\nuevos 2025\carga6estable3copia\carga\B4A\Objects\dexed\androidx\lifecycle\runtime\R$integer.dex
+C:\Users\user2\nuevos 2025\carga6estable3copia\carga\B4A\Objects\dexed\androidx\lifecycle\runtime\R$layout.dex
+C:\Users\user2\nuevos 2025\carga6estable3copia\carga\B4A\Objects\dexed\androidx\lifecycle\runtime\R$string.dex
+C:\Users\user2\nuevos 2025\carga6estable3copia\carga\B4A\Objects\dexed\androidx\lifecycle\runtime\R$style.dex
+C:\Users\user2\nuevos 2025\carga6estable3copia\carga\B4A\Objects\dexed\androidx\lifecycle\runtime\R$styleable.dex
+C:\Users\user2\nuevos 2025\carga6estable3copia\carga\B4A\Objects\dexed\androidx\lifecycle\runtime\R$xml.dex
+C:\Users\user2\nuevos 2025\carga6estable3copia\carga\B4A\Objects\dexed\androidx\lifecycle\runtime\R.dex
+C:\Users\user2\nuevos 2025\carga6estable3copia\carga\B4A\Objects\dexed\descargaadc\xy\animatedcounter.dex
+C:\Users\user2\nuevos 2025\carga6estable3copia\carga\B4A\Objects\dexed\descargaadc\xy\anotherprogressbar$ResumableSub_BusyLoop.dex
+C:\Users\user2\nuevos 2025\carga6estable3copia\carga\B4A\Objects\dexed\descargaadc\xy\anotherprogressbar.dex
+C:\Users\user2\nuevos 2025\carga6estable3copia\carga\B4A\Objects\dexed\descargaadc\xy\b4xbitset.dex
+C:\Users\user2\nuevos 2025\carga6estable3copia\carga\B4A\Objects\dexed\descargaadc\xy\b4xbreadcrumb.dex
+C:\Users\user2\nuevos 2025\carga6estable3copia\carga\B4A\Objects\dexed\descargaadc\xy\b4xbytesbuilder.dex
+C:\Users\user2\nuevos 2025\carga6estable3copia\carga\B4A\Objects\dexed\descargaadc\xy\b4xcache$_b4xcacheitem.dex
+C:\Users\user2\nuevos 2025\carga6estable3copia\carga\B4A\Objects\dexed\descargaadc\xy\b4xcache.dex
+C:\Users\user2\nuevos 2025\carga6estable3copia\carga\B4A\Objects\dexed\descargaadc\xy\b4xcollections.dex
+C:\Users\user2\nuevos 2025\carga6estable3copia\carga\B4A\Objects\dexed\descargaadc\xy\b4xcolortemplate$ResumableSub_Show.dex
+C:\Users\user2\nuevos 2025\carga6estable3copia\carga\B4A\Objects\dexed\descargaadc\xy\b4xcolortemplate$_colorpickerpart.dex
+C:\Users\user2\nuevos 2025\carga6estable3copia\carga\B4A\Objects\dexed\descargaadc\xy\b4xcolortemplate.dex
+C:\Users\user2\nuevos 2025\carga6estable3copia\carga\B4A\Objects\dexed\descargaadc\xy\b4xcombobox$ResumableSub_RaiseEvent.dex
+C:\Users\user2\nuevos 2025\carga6estable3copia\carga\B4A\Objects\dexed\descargaadc\xy\b4xcombobox.dex
+C:\Users\user2\nuevos 2025\carga6estable3copia\carga\B4A\Objects\dexed\descargaadc\xy\b4xcomparatorsort.dex
+C:\Users\user2\nuevos 2025\carga6estable3copia\carga\B4A\Objects\dexed\descargaadc\xy\b4xdatetemplate$ResumableSub_Show.dex
+C:\Users\user2\nuevos 2025\carga6estable3copia\carga\B4A\Objects\dexed\descargaadc\xy\b4xdatetemplate.dex
+C:\Users\user2\nuevos 2025\carga6estable3copia\carga\B4A\Objects\dexed\descargaadc\xy\b4xdialog$ResumableSub_Show.dex
+C:\Users\user2\nuevos 2025\carga6estable3copia\carga\B4A\Objects\dexed\descargaadc\xy\b4xdialog$ResumableSub_ShowCustom.dex
+C:\Users\user2\nuevos 2025\carga6estable3copia\carga\B4A\Objects\dexed\descargaadc\xy\b4xdialog$ResumableSub_ShowTemplate.dex
+C:\Users\user2\nuevos 2025\carga6estable3copia\carga\B4A\Objects\dexed\descargaadc\xy\b4xdialog.dex
+C:\Users\user2\nuevos 2025\carga6estable3copia\carga\B4A\Objects\dexed\descargaadc\xy\b4xfloattextfield$ResumableSub_SwitchFromPasswordToRegular.dex
+C:\Users\user2\nuevos 2025\carga6estable3copia\carga\B4A\Objects\dexed\descargaadc\xy\b4xfloattextfield.dex
+C:\Users\user2\nuevos 2025\carga6estable3copia\carga\B4A\Objects\dexed\descargaadc\xy\b4xformatter$_b4xformatdata.dex
+C:\Users\user2\nuevos 2025\carga6estable3copia\carga\B4A\Objects\dexed\descargaadc\xy\b4xformatter.dex
+C:\Users\user2\nuevos 2025\carga6estable3copia\carga\B4A\Objects\dexed\descargaadc\xy\b4ximageview.dex
+C:\Users\user2\nuevos 2025\carga6estable3copia\carga\B4A\Objects\dexed\descargaadc\xy\b4xinputtemplate$ResumableSub_Show.dex
+C:\Users\user2\nuevos 2025\carga6estable3copia\carga\B4A\Objects\dexed\descargaadc\xy\b4xinputtemplate.dex
+C:\Users\user2\nuevos 2025\carga6estable3copia\carga\B4A\Objects\dexed\descargaadc\xy\b4xlisttemplate$ResumableSub_Show.dex
+C:\Users\user2\nuevos 2025\carga6estable3copia\carga\B4A\Objects\dexed\descargaadc\xy\b4xlisttemplate.dex
+C:\Users\user2\nuevos 2025\carga6estable3copia\carga\B4A\Objects\dexed\descargaadc\xy\b4xloadingindicator$ResumableSub_MainLoop.dex
+C:\Users\user2\nuevos 2025\carga6estable3copia\carga\B4A\Objects\dexed\descargaadc\xy\b4xloadingindicator.dex
+C:\Users\user2\nuevos 2025\carga6estable3copia\carga\B4A\Objects\dexed\descargaadc\xy\b4xlongtexttemplate.dex
+C:\Users\user2\nuevos 2025\carga6estable3copia\carga\B4A\Objects\dexed\descargaadc\xy\b4xmainpage$ResumableSub_B4XPage_CloseRequest.dex
+C:\Users\user2\nuevos 2025\carga6estable3copia\carga\B4A\Objects\dexed\descargaadc\xy\b4xmainpage.dex
+C:\Users\user2\nuevos 2025\carga6estable3copia\carga\B4A\Objects\dexed\descargaadc\xy\b4xorderedmap.dex
+C:\Users\user2\nuevos 2025\carga6estable3copia\carga\B4A\Objects\dexed\descargaadc\xy\b4xpage1.dex
+C:\Users\user2\nuevos 2025\carga6estable3copia\carga\B4A\Objects\dexed\descargaadc\xy\b4xpage2$ResumableSub_btnMode_Click.dex
+C:\Users\user2\nuevos 2025\carga6estable3copia\carga\B4A\Objects\dexed\descargaadc\xy\b4xpage2$ResumableSub_CaptureVideo.dex
+C:\Users\user2\nuevos 2025\carga6estable3copia\carga\B4A\Objects\dexed\descargaadc\xy\b4xpage2$ResumableSub_OpenCamera.dex
+C:\Users\user2\nuevos 2025\carga6estable3copia\carga\B4A\Objects\dexed\descargaadc\xy\b4xpage2$ResumableSub_PrepareSurface.dex
+C:\Users\user2\nuevos 2025\carga6estable3copia\carga\B4A\Objects\dexed\descargaadc\xy\b4xpage2$ResumableSub_TakePicture.dex
+C:\Users\user2\nuevos 2025\carga6estable3copia\carga\B4A\Objects\dexed\descargaadc\xy\b4xpage2.dex
+C:\Users\user2\nuevos 2025\carga6estable3copia\carga\B4A\Objects\dexed\descargaadc\xy\b4xpage3.dex
+C:\Users\user2\nuevos 2025\carga6estable3copia\carga\B4A\Objects\dexed\descargaadc\xy\b4xpage4.dex
+C:\Users\user2\nuevos 2025\carga6estable3copia\carga\B4A\Objects\dexed\descargaadc\xy\b4xpage5.dex
+C:\Users\user2\nuevos 2025\carga6estable3copia\carga\B4A\Objects\dexed\descargaadc\xy\b4xpage6.dex
+C:\Users\user2\nuevos 2025\carga6estable3copia\carga\B4A\Objects\dexed\descargaadc\xy\b4xpage7.dex
+C:\Users\user2\nuevos 2025\carga6estable3copia\carga\B4A\Objects\dexed\descargaadc\xy\b4xpage8.dex
+C:\Users\user2\nuevos 2025\carga6estable3copia\carga\B4A\Objects\dexed\descargaadc\xy\b4xpage9.dex
+C:\Users\user2\nuevos 2025\carga6estable3copia\carga\B4A\Objects\dexed\descargaadc\xy\b4xpages.dex
+C:\Users\user2\nuevos 2025\carga6estable3copia\carga\B4A\Objects\dexed\descargaadc\xy\b4xpagesdelegator.dex
+C:\Users\user2\nuevos 2025\carga6estable3copia\carga\B4A\Objects\dexed\descargaadc\xy\b4xpagesmanager$PagesMenuListener.dex
+C:\Users\user2\nuevos 2025\carga6estable3copia\carga\B4A\Objects\dexed\descargaadc\xy\b4xpagesmanager$ResumableSub_HandleCloseRequest.dex
+C:\Users\user2\nuevos 2025\carga6estable3copia\carga\B4A\Objects\dexed\descargaadc\xy\b4xpagesmanager$_b4amenuitem.dex
+C:\Users\user2\nuevos 2025\carga6estable3copia\carga\B4A\Objects\dexed\descargaadc\xy\b4xpagesmanager$_b4xpageinfo.dex
+C:\Users\user2\nuevos 2025\carga6estable3copia\carga\B4A\Objects\dexed\descargaadc\xy\b4xpagesmanager$_b4xpageparent.dex
+C:\Users\user2\nuevos 2025\carga6estable3copia\carga\B4A\Objects\dexed\descargaadc\xy\b4xpagesmanager.dex
+C:\Users\user2\nuevos 2025\carga6estable3copia\carga\B4A\Objects\dexed\descargaadc\xy\b4xplusminus$ResumableSub_StartDownLoop.dex
+C:\Users\user2\nuevos 2025\carga6estable3copia\carga\B4A\Objects\dexed\descargaadc\xy\b4xplusminus.dex
+C:\Users\user2\nuevos 2025\carga6estable3copia\carga\B4A\Objects\dexed\descargaadc\xy\b4xradiobutton$ResumableSub_SetValueImpl.dex
+C:\Users\user2\nuevos 2025\carga6estable3copia\carga\B4A\Objects\dexed\descargaadc\xy\b4xradiobutton.dex
+C:\Users\user2\nuevos 2025\carga6estable3copia\carga\B4A\Objects\dexed\descargaadc\xy\b4xsearchtemplate$ResumableSub_Show.dex
+C:\Users\user2\nuevos 2025\carga6estable3copia\carga\B4A\Objects\dexed\descargaadc\xy\b4xsearchtemplate.dex
+C:\Users\user2\nuevos 2025\carga6estable3copia\carga\B4A\Objects\dexed\descargaadc\xy\b4xseekbar.dex
+C:\Users\user2\nuevos 2025\carga6estable3copia\carga\B4A\Objects\dexed\descargaadc\xy\b4xset.dex
+C:\Users\user2\nuevos 2025\carga6estable3copia\carga\B4A\Objects\dexed\descargaadc\xy\b4xsignaturetemplate.dex
+C:\Users\user2\nuevos 2025\carga6estable3copia\carga\B4A\Objects\dexed\descargaadc\xy\b4xswitch$ResumableSub_SetValueImpl.dex
+C:\Users\user2\nuevos 2025\carga6estable3copia\carga\B4A\Objects\dexed\descargaadc\xy\b4xswitch.dex
+C:\Users\user2\nuevos 2025\carga6estable3copia\carga\B4A\Objects\dexed\descargaadc\xy\b4xtimedtemplate$ResumableSub_Show.dex
+C:\Users\user2\nuevos 2025\carga6estable3copia\carga\B4A\Objects\dexed\descargaadc\xy\b4xtimedtemplate.dex
+C:\Users\user2\nuevos 2025\carga6estable3copia\carga\B4A\Objects\dexed\descargaadc\xy\camex2$ResumableSub_CreateSurface.dex
+C:\Users\user2\nuevos 2025\carga6estable3copia\carga\B4A\Objects\dexed\descargaadc\xy\camex2$ResumableSub_FocusAndTakePicture.dex
+C:\Users\user2\nuevos 2025\carga6estable3copia\carga\B4A\Objects\dexed\descargaadc\xy\camex2$ResumableSub_OpenCamera.dex
+C:\Users\user2\nuevos 2025\carga6estable3copia\carga\B4A\Objects\dexed\descargaadc\xy\camex2$ResumableSub_PrepareSurface.dex
+C:\Users\user2\nuevos 2025\carga6estable3copia\carga\B4A\Objects\dexed\descargaadc\xy\camex2$ResumableSub_PrepareSurfaceForVideo.dex
+C:\Users\user2\nuevos 2025\carga6estable3copia\carga\B4A\Objects\dexed\descargaadc\xy\camex2$ResumableSub_TakePictureNow.dex
+C:\Users\user2\nuevos 2025\carga6estable3copia\carga\B4A\Objects\dexed\descargaadc\xy\camex2$ResumableSub_TakePicturesNow.dex
+C:\Users\user2\nuevos 2025\carga6estable3copia\carga\B4A\Objects\dexed\descargaadc\xy\camex2$ResumableSub_WaitForFocusWithTimeout.dex
+C:\Users\user2\nuevos 2025\carga6estable3copia\carga\B4A\Objects\dexed\descargaadc\xy\camex2.dex
+C:\Users\user2\nuevos 2025\carga6estable3copia\carga\B4A\Objects\dexed\descargaadc\xy\fileprovider.dex
+C:\Users\user2\nuevos 2025\carga6estable3copia\carga\B4A\Objects\dexed\descargaadc\xy\madewithlove.dex
+C:\Users\user2\nuevos 2025\carga6estable3copia\carga\B4A\Objects\dexed\descargaadc\xy\main$1.dex
+C:\Users\user2\nuevos 2025\carga6estable3copia\carga\B4A\Objects\dexed\descargaadc\xy\main$B4AMenuItemsClickListener.dex
+C:\Users\user2\nuevos 2025\carga6estable3copia\carga\B4A\Objects\dexed\descargaadc\xy\main$HandleKeyDelayed.dex
+C:\Users\user2\nuevos 2025\carga6estable3copia\carga\B4A\Objects\dexed\descargaadc\xy\main$ResumeMessage.dex
+C:\Users\user2\nuevos 2025\carga6estable3copia\carga\B4A\Objects\dexed\descargaadc\xy\main$WaitForLayout.dex
+C:\Users\user2\nuevos 2025\carga6estable3copia\carga\B4A\Objects\dexed\descargaadc\xy\main.dex
+C:\Users\user2\nuevos 2025\carga6estable3copia\carga\B4A\Objects\dexed\descargaadc\xy\nb6.dex
+C:\Users\user2\nuevos 2025\carga6estable3copia\carga\B4A\Objects\dexed\descargaadc\xy\pag1.dex
+C:\Users\user2\nuevos 2025\carga6estable3copia\carga\B4A\Objects\dexed\descargaadc\xy\pagetextfields.dex
+C:\Users\user2\nuevos 2025\carga6estable3copia\carga\B4A\Objects\dexed\descargaadc\xy\R$attr.dex
+C:\Users\user2\nuevos 2025\carga6estable3copia\carga\B4A\Objects\dexed\descargaadc\xy\R$color.dex
+C:\Users\user2\nuevos 2025\carga6estable3copia\carga\B4A\Objects\dexed\descargaadc\xy\R$dimen.dex
+C:\Users\user2\nuevos 2025\carga6estable3copia\carga\B4A\Objects\dexed\descargaadc\xy\R$drawable.dex
+C:\Users\user2\nuevos 2025\carga6estable3copia\carga\B4A\Objects\dexed\descargaadc\xy\R$id.dex
+C:\Users\user2\nuevos 2025\carga6estable3copia\carga\B4A\Objects\dexed\descargaadc\xy\R$integer.dex
+C:\Users\user2\nuevos 2025\carga6estable3copia\carga\B4A\Objects\dexed\descargaadc\xy\R$layout.dex
+C:\Users\user2\nuevos 2025\carga6estable3copia\carga\B4A\Objects\dexed\descargaadc\xy\R$string.dex
+C:\Users\user2\nuevos 2025\carga6estable3copia\carga\B4A\Objects\dexed\descargaadc\xy\R$style.dex
+C:\Users\user2\nuevos 2025\carga6estable3copia\carga\B4A\Objects\dexed\descargaadc\xy\R$styleable.dex
+C:\Users\user2\nuevos 2025\carga6estable3copia\carga\B4A\Objects\dexed\descargaadc\xy\R$xml.dex
+C:\Users\user2\nuevos 2025\carga6estable3copia\carga\B4A\Objects\dexed\descargaadc\xy\R.dex
+C:\Users\user2\nuevos 2025\carga6estable3copia\carga\B4A\Objects\dexed\descargaadc\xy\roundslider.dex
+C:\Users\user2\nuevos 2025\carga6estable3copia\carga\B4A\Objects\dexed\descargaadc\xy\scrollinglabel$ResumableSub_StartScrolling.dex
+C:\Users\user2\nuevos 2025\carga6estable3copia\carga\B4A\Objects\dexed\descargaadc\xy\scrollinglabel.dex
+C:\Users\user2\nuevos 2025\carga6estable3copia\carga\B4A\Objects\dexed\descargaadc\xy\seteos.dex
+C:\Users\user2\nuevos 2025\carga6estable3copia\carga\B4A\Objects\dexed\descargaadc\xy\starter$1.dex
+C:\Users\user2\nuevos 2025\carga6estable3copia\carga\B4A\Objects\dexed\descargaadc\xy\starter$2.dex
+C:\Users\user2\nuevos 2025\carga6estable3copia\carga\B4A\Objects\dexed\descargaadc\xy\starter$starter_BR.dex
+C:\Users\user2\nuevos 2025\carga6estable3copia\carga\B4A\Objects\dexed\descargaadc\xy\starter.dex
+C:\Users\user2\nuevos 2025\carga6estable3copia\carga\B4A\Objects\dexed\descargaadc\xy\swiftbutton.dex
+C:\Users\user2\nuevos 2025\carga6estable3copia\carga\B4A\Objects\dexed\descargaadc\xy\xuiviewsutils.dex
+C:\Users\user2\nuevos 2025\carga6estable3copia\carga\B4A\Objects\dexed\descargaadc\xy\designerscripts\LS_1.dex
+C:\Users\user2\nuevos 2025\carga6estable3copia\carga\B4A\Objects\dexed\descargaadc\xy\designerscripts\LS_dan2.dex
+C:\Users\user2\nuevos 2025\carga6estable3copia\carga\B4A\Objects\dexed\descargaadc\xy\designerscripts\LS_danos.dex
+C:\Users\user2\nuevos 2025\carga6estable3copia\carga\B4A\Objects\dexed\descargaadc\xy\designerscripts\LS_des.dex
+C:\Users\user2\nuevos 2025\carga6estable3copia\carga\B4A\Objects\dexed\descargaadc\xy\designerscripts\LS_des1.dex
+C:\Users\user2\nuevos 2025\carga6estable3copia\carga\B4A\Objects\dexed\descargaadc\xy\designerscripts\LS_des2.dex
+C:\Users\user2\nuevos 2025\carga6estable3copia\carga\B4A\Objects\dexed\descargaadc\xy\designerscripts\LS_layoutpage.dex
+C:\Users\user2\nuevos 2025\carga6estable3copia\carga\B4A\Objects\dexed\descargaadc\xy\designerscripts\LS_mainpage.dex
+C:\Users\user2\nuevos 2025\carga6estable3copia\carga\B4A\Objects\dexed\descargaadc\xy\designerscripts\LS_mainpage2.dex
+C:\Users\user2\nuevos 2025\carga6estable3copia\carga\B4A\Objects\dexed\descargaadc\xy\designerscripts\LS_mainpage3.dex
+C:\Users\user2\nuevos 2025\carga6estable3copia\carga\B4A\Objects\dexed\descargaadc\xy\designerscripts\LS_scrolltest.dex
+C:\Users\user2\nuevos 2025\carga6estable3copia\carga\B4A\Objects\dexed\descargaadc\xy\designerscripts\LS_searchtemplate.dex
+C:\Users\user2\nuevos 2025\carga6estable3copia\carga\B4A\Objects\dexed\descargaadc\xy\designerscripts\LS_stillpicture.dex

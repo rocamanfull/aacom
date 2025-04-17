@@ -1,0 +1,198 @@
+﻿Build1=Default,descargaadc.xy
+Build2=New_1,des.xy
+File1=1.bal
+File10=carg2finalmod2bac2.bal
+File11=carg2finalmod3.bal
+File12=carg2finalmod6.bal
+File13=carg2finalmodtres.bal
+File14=carg2peso.bal
+File15=carg2peso2.bal
+File16=carga1.bal
+File17=carga22.bal
+File18=carga2b.bal
+File19=carga2bbbb.bal
+File2=adc.csv
+File20=carga2bbbb3x.bal
+File21=carga2modelo.bal
+File22=carga3.bal
+File23=dan2.bal
+File24=danos.bal
+File25=defectos.bal
+File26=des.bal
+File27=des1.bal
+File28=des2.bal
+File29=emp.txt
+File3=android48.png
+File30=firma.txt
+File31=fot_1.jpg
+File32=LayoutPage.bal
+File33=logot.jpg
+File34=MainPage.bal
+File35=MainPage2.bal
+File36=mainpage3.bal
+File37=marc.txt
+File38=page1.bal
+File39=page3.bal
+File4=carg2final.bal
+File40=page5.bal
+File41=pepe.csv
+File42=planilla.txt
+File43=ScrollTest.bal
+File44=stillpicture.bal
+File5=carg2final2.bal
+File6=carg2finalchica.bal
+File7=carg2finalmod.bal
+File8=carg2finalmod2.bal
+File9=carg2finalmod2bac.bal
+FileGroup1=Default Group
+FileGroup10=Default Group
+FileGroup11=Default Group
+FileGroup12=Default Group
+FileGroup13=Default Group
+FileGroup14=Default Group
+FileGroup15=Default Group
+FileGroup16=Default Group
+FileGroup17=Default Group
+FileGroup18=Default Group
+FileGroup19=Default Group
+FileGroup2=Default Group
+FileGroup20=Default Group
+FileGroup21=Default Group
+FileGroup22=Default Group
+FileGroup23=Default Group
+FileGroup24=Default Group
+FileGroup25=Default Group
+FileGroup26=Default Group
+FileGroup27=Default Group
+FileGroup28=Default Group
+FileGroup29=Default Group
+FileGroup3=Default Group
+FileGroup30=Default Group
+FileGroup31=Default Group
+FileGroup32=Default Group
+FileGroup33=Default Group
+FileGroup34=Default Group
+FileGroup35=Default Group
+FileGroup36=Default Group
+FileGroup37=Default Group
+FileGroup38=Default Group
+FileGroup39=Default Group
+FileGroup4=Default Group
+FileGroup40=Default Group
+FileGroup41=Default Group
+FileGroup42=Default Group
+FileGroup43=Default Group
+FileGroup44=Default Group
+FileGroup5=Default Group
+FileGroup6=Default Group
+FileGroup7=Default Group
+FileGroup8=Default Group
+FileGroup9=Default Group
+Group=Default Group
+Library1=b4xpages
+Library10=runtimepermissions
+Library11=xui views
+Library12=nb6
+Library2=camera2
+Library3=core
+Library4=dateutils
+Library5=dialogs2
+Library6=fileprovider
+Library7=net
+Library8=pdfwriter
+Library9=phone
+ManifestCode='This code will be applied to the manifest file during compilation.~\n~'You do not need to modify it in most cases.~\n~'See this link for for more information: https://www.b4x.com/forum/showthread.php?p=78136~\n~AddManifestText(~\n~<uses-sdk android:minSdkVersion="5" android:targetSdkVersion="29"/>~\n~<supports-screens android:largeScreens="true" ~\n~    android:normalScreens="true" ~\n~    android:smallScreens="true" ~\n~    android:anyDensity="true"/>)~\n~SetApplicationAttribute(android:icon, "@drawable/icon")~\n~SetApplicationAttribute(android:label, "$LABEL$")~\n~CreateResourceFromFile(Macro, Themes.LightTheme)~\n~'End of default text.~\n~AddApplicationText(~\n~  <provider~\n~  android:name="android.support.v4.content.FileProvider"~\n~  android:authorities="$PACKAGE$.provider"~\n~  android:exported="false"~\n~  android:grantUriPermissions="true">~\n~  <meta-data~\n~  android:name="android.support.FILE_PROVIDER_PATHS"~\n~  android:resource="@xml/provider_paths"/>~\n~  </provider>~\n~)~\n~CreateResource(xml, provider_paths,~\n~   <files-path name="name" path="shared" />~\n~)~\n~SetApplicationAttribute(android:theme, "@style/LightTheme")~\n~CreateResource(values, colors.xml,~\n~<resources>~\n~    <color name="actionbar">#ff039be5</color>~\n~    <color name="statusbar">#ff006db3</color>~\n~    <color name="textColorPrimary">#ff000000</color>~\n~    <color name="navigationBar">#ff006db3</color>~\n~</resources>~\n~)~\n~CreateResource(values-v20, theme.xml,~\n~<resources>~\n~    <style name="LightTheme" parent="@android:style/Theme.Material.Light">~\n~         <item name="android:colorPrimary">@color/actionbar</item>~\n~         <item name="android:colorPrimaryDark">@color/statusbar</item>~\n~         <item name="android:textColorPrimary">@color/textColorPrimary</item>~\n~         <item name="android:navigationBarColor">@color/navigationBar</item>~\n~         <item name="android:actionBarSize">50dp</item>~\n~         <item name="android:actionButtonStyle">@style/ActionButton</item>~\n~    </style>~\n~    <style name="ActionButton" parent="@android:style/Widget.ActionButton">~\n~        <item name="android:drawablePadding">0dp</item>~\n~        <item name="android:paddingStart">0dp</item>~\n~        <item name="android:paddingEnd">0dp</item>~\n~        <item name="android:minWidth">0dp</item>~\n~   </style>~\n~~\n~</resources>~\n~)~\n~CreateResource(values-v14, theme.xml,~\n~<resources>~\n~    <style name="LightTheme" parent="@android:style/Theme.Holo.Light">~\n~        <item name="android:actionBarStyle">@style/CustomActionBarStyle</item>~\n~    </style>~\n~    <style name="CustomActionBarStyle" parent="@android:style/Widget.Holo.Light.ActionBar.Solid.Inverse">~\n~        <item name="android:background">@color/actionbar</item>~\n~    </style>~\n~</resources>~\n~)~\n~
+Module1=|relative|..\B4XMainPage
+Module10=B4xPage9
+Module11=CamEx2
+Module12=pag1
+Module13=PageTextFields
+Module14=seteos
+Module15=Starter
+Module2=B4XPage1
+Module3=B4XPage2
+Module4=B4xPage3
+Module5=B4xPage4
+Module6=b4xpage5
+Module7=B4xPage6
+Module8=B4xPage7
+Module9=B4xPage8
+NumberOfFiles=44
+NumberOfLibraries=12
+NumberOfModules=15
+Version=12.8
+@EndOfDesignText@
+#Region  Project Attributes 
+	#ApplicationLabel: carga6
+	#VersionCode: 1
+	#VersionName: 
+	'SupportedOrientations possible values: unspecified, landscape or portrait.
+	#SupportedOrientations: portrait
+	#CanInstallToExternalStorage: False
+	#BridgeLogger: true
+	
+#End Region
+
+#Region  Activity Attributes 
+	#FullScreen: False
+	#IncludeTitle: True
+#End Region
+
+Sub Process_Globals
+	Public ActionBarHomeClicked As Boolean
+	
+End Sub
+
+Sub Globals
+
+End Sub
+
+Sub Activity_Create(FirstTime As Boolean)
+	Dim pm As B4XPagesManager
+	pm.Initialize(Activity)
+End Sub
+
+'Template version: B4A-1.01
+#Region Delegates
+
+Sub Activity_ActionBarHomeClick
+	ActionBarHomeClicked = True
+	B4XPages.Delegate.Activity_ActionBarHomeClick
+	ActionBarHomeClicked = False
+End Sub
+
+Sub Activity_KeyPress (KeyCode As Int) As Boolean
+	Return B4XPages.Delegate.Activity_KeyPress(KeyCode)
+End Sub
+
+Sub Activity_Resume
+	B4XPages.Delegate.Activity_Resume
+End Sub
+
+Sub Activity_Pause (UserClosed As Boolean)
+'	If UserClosed = False Then
+'		Log("Dispositivo suspendido, cerrando aplicación...")
+'		ExitApplication ' Cierra la app completamente
+'	End If
+	'ExitApplication
+	B4XPages.Delegate.Activity_Pause
+End Sub
+
+Sub Activity_PermissionResult (Permission As String, Result As Boolean)
+	B4XPages.Delegate.Activity_PermissionResult(Permission, Result)
+End Sub
+
+Sub Create_Menu (Menu As Object)
+	B4XPages.Delegate.Create_Menu(Menu)
+End Sub
+
+#if Java
+public boolean _onCreateOptionsMenu(android.view.Menu menu) {
+	 processBA.raiseEvent(null, "create_menu", menu);
+	 return true;
+	
+}
+#End If
+#End Region
+
+'Program code should go into B4XMainPage and other pages.

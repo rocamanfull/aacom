@@ -398,7 +398,7 @@ case 3:
 //C
 this.state = 12;
  //BA.debugLineNum = 276;BA.debugLine="Log(\"Focus not supported\")";
-parent.__c.LogImpl("212386308","Focus not supported",0);
+parent.__c.LogImpl("812124164","Focus not supported",0);
  if (true) break;
 
 case 5:
@@ -438,14 +438,14 @@ case 8:
 //C
 this.state = 11;
  //BA.debugLineNum = 284;BA.debugLine="Log(\"Focus failed\")";
-parent.__c.LogImpl("212386316","Focus failed",0);
+parent.__c.LogImpl("812124172","Focus failed",0);
  if (true) break;
 
 case 10:
 //C
 this.state = 11;
  //BA.debugLineNum = 286;BA.debugLine="Log(\"Focused!\")";
-parent.__c.LogImpl("212386318","Focused!",0);
+parent.__c.LogImpl("812124174","Focused!",0);
  if (true) break;
 
 case 11:
@@ -753,9 +753,9 @@ if (_mode>=0 && _mode<_consts.getSize()) {
 _res.Add(_consts.Get(_mode));
  }else {
  //BA.debugLineNum = 424;BA.debugLine="Log(Consts) 'ignore";
-__c.LogImpl("213238281",BA.ObjectToString(_consts),0);
+__c.LogImpl("812976137",BA.ObjectToString(_consts),0);
  //BA.debugLineNum = 425;BA.debugLine="Log(\"Unknown consts: \" & mode)";
-__c.LogImpl("213238282","Unknown consts: "+BA.NumberToString(_mode),0);
+__c.LogImpl("812976138","Unknown consts: "+BA.NumberToString(_mode),0);
  };
  }
 };
@@ -809,9 +809,9 @@ if (_i>=0 && _i<_consts.getSize()) {
 if (true) return BA.ObjectToString(_consts.Get(_i));
  }else {
  //BA.debugLineNum = 409;BA.debugLine="Log(Consts)'ignore";
-__c.LogImpl("213172742",BA.ObjectToString(_consts),0);
+__c.LogImpl("812910598",BA.ObjectToString(_consts),0);
  //BA.debugLineNum = 410;BA.debugLine="Log(\"Unknown const: \" & i)";
-__c.LogImpl("213172743","Unknown const: "+BA.NumberToString(_i),0);
+__c.LogImpl("812910599","Unknown const: "+BA.NumberToString(_i),0);
  //BA.debugLineNum = 411;BA.debugLine="Return \"\"";
 if (true) return "";
  };
@@ -915,7 +915,7 @@ case 7:
 //C
 this.state = 8;
  //BA.debugLineNum = 61;BA.debugLine="Log(\"Camera not found.\")";
-parent.__c.LogImpl("210354696","Camera not found.",0);
+parent.__c.LogImpl("810092552","Camera not found.",0);
  //BA.debugLineNum = 62;BA.debugLine="id = Camera.CameraIDs(0)";
 parent._id = parent._camera.getCameraIDs()[(int) (0)];
  if (true) break;
@@ -949,7 +949,7 @@ case 11:
 //C
 this.state = 12;
  //BA.debugLineNum = 67;BA.debugLine="Log(\"Failed to open camera\")";
-parent.__c.LogImpl("210354702","Failed to open camera",0);
+parent.__c.LogImpl("810092558","Failed to open camera",0);
  //BA.debugLineNum = 68;BA.debugLine="Return 0";
 if (true) {
 parent.__c.ReturnFromResumableSub(this,(Object)(0));return;};
@@ -1248,7 +1248,7 @@ Object _value = null;
 String _typ = "";
  //BA.debugLineNum = 446;BA.debugLine="Private Sub PrintAllKeys (CameraMap As Object, tit";
  //BA.debugLineNum = 447;BA.debugLine="Log($\"******  ${title} **********\"$)";
-__c.LogImpl("213434881",("******  "+__c.SmartStringFormatter("",(Object)(_title))+" **********"),0);
+__c.LogImpl("813172737",("******  "+__c.SmartStringFormatter("",(Object)(_title))+" **********"),0);
  //BA.debugLineNum = 448;BA.debugLine="Dim jo As JavaObject = CameraMap";
 _jo = new anywheresoftware.b4j.object.JavaObject();
 _jo = (anywheresoftware.b4j.object.JavaObject) anywheresoftware.b4a.AbsObjectWrapper.ConvertToWrapper(new anywheresoftware.b4j.object.JavaObject(), (java.lang.Object)(_cameramap));
@@ -1289,7 +1289,7 @@ _value = (Object)(_bytestolist(_value).getObject());
 _value = (Object)(_objectstolist(_value).getObject());
  };
  //BA.debugLineNum = 465;BA.debugLine="Log($\"${k.RunMethod(\"getName\", Null)}: ${value}\"";
-__c.LogImpl("213434899",(""+__c.SmartStringFormatter("",_k.RunMethod("getName",(Object[])(__c.Null)))+": "+__c.SmartStringFormatter("",_value)+""),0);
+__c.LogImpl("813172755",(""+__c.SmartStringFormatter("",_k.RunMethod("getName",(Object[])(__c.Null)))+": "+__c.SmartStringFormatter("",_value)+""),0);
  }
 };
  //BA.debugLineNum = 467;BA.debugLine="End Sub";
@@ -1469,7 +1469,7 @@ _mediarecorder.RunMethod("stop",(Object[])(__c.Null));
  } 
        catch (Exception e5) {
 			ba.setLastException(e5); //BA.debugLineNum = 140;BA.debugLine="Log(LastException)";
-__c.LogImpl("210813445",BA.ObjectToString(__c.LastException(ba)),0);
+__c.LogImpl("810551301",BA.ObjectToString(__c.LastException(ba)),0);
  };
  //BA.debugLineNum = 142;BA.debugLine="RecordingVideo = False";
 _recordingvideo = __c.False;

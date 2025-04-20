@@ -310,7 +310,7 @@ Private Sub B4XPage_Created (Root1 As B4XView)
 #if B4a
 	ScrollView1.Panel.Height = Panel1.Height
 #End If
-	B4XPages.SetTitle(Me, "Planilla de Cargas Pai sa")
+	B4XPages.SetTitle(Me, "Planilla de Cargas Pai sa v1")
 	Page2.Initialize
 	B4XPages.AddPage("Page 2", Page2)
 	Page1.Initialize

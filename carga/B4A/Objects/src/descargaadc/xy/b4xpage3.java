@@ -371,24 +371,24 @@ _mainpage = (descargaadc.xy.b4xmainpage)(_b4xpages._getpage /*Object*/ (ba,"Main
  //BA.debugLineNum = 344;BA.debugLine="If MainPage.carg2=False Then";
 if (_mainpage._carg2 /*boolean*/ ==__c.False) { 
  //BA.debugLineNum = 345;BA.debugLine="Log(\"`page3 es falsa\")";
-__c.LogImpl("214352387","`page3 es falsa",0);
+__c.LogImpl("814090243","`page3 es falsa",0);
  };
  //BA.debugLineNum = 347;BA.debugLine="MainPage.carg2=True";
 _mainpage._carg2 /*boolean*/  = __c.True;
  //BA.debugLineNum = 348;BA.debugLine="If MainPage.carg2=True Then";
 if (_mainpage._carg2 /*boolean*/ ==__c.True) { 
  //BA.debugLineNum = 349;BA.debugLine="Log(\"page3 es ok\")";
-__c.LogImpl("214352391","page3 es ok",0);
+__c.LogImpl("814090247","page3 es ok",0);
  };
  //BA.debugLineNum = 351;BA.debugLine="If MainPage.master=False Then";
 if (_mainpage._master /*boolean*/ ==__c.False) { 
  //BA.debugLineNum = 352;BA.debugLine="Log(\"master 3 es false \")";
-__c.LogImpl("214352394","master 3 es false ",0);
+__c.LogImpl("814090250","master 3 es false ",0);
  };
  //BA.debugLineNum = 354;BA.debugLine="If MainPage.master=True Then";
 if (_mainpage._master /*boolean*/ ==__c.True) { 
  //BA.debugLineNum = 355;BA.debugLine="Log(\"master es true\")";
-__c.LogImpl("214352397","master es true",0);
+__c.LogImpl("814090253","master es true",0);
  //BA.debugLineNum = 356;BA.debugLine="llenar.Enabled=True";
 _llenar.setEnabled(__c.True);
  //BA.debugLineNum = 357;BA.debugLine="llenar.Visible = True";
@@ -427,14 +427,14 @@ _mainpage = (descargaadc.xy.b4xmainpage)(_b4xpages._getpage /*Object*/ (ba,"Main
  //BA.debugLineNum = 390;BA.debugLine="If MainPage.carg2=False Then";
 if (_mainpage._carg2 /*boolean*/ ==__c.False) { 
  //BA.debugLineNum = 391;BA.debugLine="Log(\"CARG2 es falsa\")";
-__c.LogImpl("214417948","CARG2 es falsa",0);
+__c.LogImpl("814155804","CARG2 es falsa",0);
  };
  //BA.debugLineNum = 393;BA.debugLine="MainPage.carg2=True";
 _mainpage._carg2 /*boolean*/  = __c.True;
  //BA.debugLineNum = 394;BA.debugLine="If MainPage.carg1=True Then";
 if (_mainpage._carg1 /*boolean*/ ==__c.True) { 
  //BA.debugLineNum = 395;BA.debugLine="Log(\"CARG2es ok\")";
-__c.LogImpl("214417952","CARG2es ok",0);
+__c.LogImpl("814155808","CARG2es ok",0);
  };
  //BA.debugLineNum = 397;BA.debugLine="llenar.Enabled=False";
 _llenar.setEnabled(__c.False);

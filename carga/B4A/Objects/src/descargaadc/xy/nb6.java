@@ -466,14 +466,14 @@ _manufacturer = BA.ObjectToString(_jo.InitializeStatic("android.os.Build").GetFi
  //BA.debugLineNum = 67;BA.debugLine="Dim key As String = manufacturer & \" \" & model";
 _key = _manufacturer+" "+_model;
  //BA.debugLineNum = 68;BA.debugLine="Log(\"key: \" & key)";
-__c.LogImpl("981002501","key: "+_key,0);
+__c.LogImpl("950135045","key: "+_key,0);
  //BA.debugLineNum = 69;BA.debugLine="Dim ProblematicDevices As Map = CreateMap(\"Samsun";
 _problematicdevices = new anywheresoftware.b4a.objects.collections.Map();
 _problematicdevices = __c.createMap(new Object[] {(Object)("Samsung Galaxy S5"),(Object)(""),(Object)("Sony XPreria M5"),(Object)("")});
  //BA.debugLineNum = 70;BA.debugLine="If ProblematicDevices.ContainsKey(key) Then";
 if (_problematicdevices.ContainsKey((Object)(_key))) { 
  //BA.debugLineNum = 71;BA.debugLine="Log(\"Problematic device. Switching to 'old' mode";
-__c.LogImpl("981002504","Problematic device. Switching to 'old' mode.",0);
+__c.LogImpl("950135048","Problematic device. Switching to 'old' mode.",0);
  //BA.debugLineNum = 72;BA.debugLine="Return True";
 if (true) return __c.True;
  };

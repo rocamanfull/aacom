@@ -19,7 +19,7 @@
 	<uses-permission android:name="android.permission.FOREGROUND_SERVICE"/>
 	<application
 		android:icon="@drawable/icon"
-		android:label="carga6"
+		android:label="carga6v1"
 		android:theme="@style/LightTheme">
 		
 		<provider
@@ -35,7 +35,7 @@
 			android:windowSoftInputMode="stateHidden"
 			android:launchMode="singleTop"
 			android:name=".main"
-			android:label="carga6"
+			android:label="carga6v1"
 			android:screenOrientation="portrait"
 			android:exported="true">
 			<intent-filter>

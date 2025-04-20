@@ -123,7 +123,7 @@ NumberOfModules=15
 Version=12.8
 @EndOfDesignText@
 #Region  Project Attributes 
-	#ApplicationLabel: carga6
+	#ApplicationLabel: carga6v1
 	#VersionCode: 1
 	#VersionName: 
 	'SupportedOrientations possible values: unspecified, landscape or portrait.

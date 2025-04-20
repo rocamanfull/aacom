@@ -339,19 +339,19 @@ _mainpage = (descargaadc.xy.b4xmainpage)(_b4xpages._getpage /*Object*/ (ba,"Main
  //BA.debugLineNum = 334;BA.debugLine="If MainPage.carg1=False Then";
 if (_mainpage._carg1 /*boolean*/ ==__c.False) { 
  //BA.debugLineNum = 335;BA.debugLine="Log(\"page1 es falsa\")";
-__c.LogImpl("23538947","page1 es falsa",0);
+__c.LogImpl("83276803","page1 es falsa",0);
  };
  //BA.debugLineNum = 337;BA.debugLine="MainPage.carg1=True";
 _mainpage._carg1 /*boolean*/  = __c.True;
  //BA.debugLineNum = 338;BA.debugLine="If MainPage.carg1=True Then";
 if (_mainpage._carg1 /*boolean*/ ==__c.True) { 
  //BA.debugLineNum = 339;BA.debugLine="Log(\"page1 es ok\")";
-__c.LogImpl("23538951","page1 es ok",0);
+__c.LogImpl("83276807","page1 es ok",0);
  };
  //BA.debugLineNum = 341;BA.debugLine="If MainPage.master=True Then";
 if (_mainpage._master /*boolean*/ ==__c.True) { 
  //BA.debugLineNum = 342;BA.debugLine="Log(\"master es true\")";
-__c.LogImpl("23538954","master es true",0);
+__c.LogImpl("83276810","master es true",0);
  //BA.debugLineNum = 343;BA.debugLine="llenar.Enabled=True";
 _llenar.setEnabled(__c.True);
  //BA.debugLineNum = 344;BA.debugLine="llenar.Visible = True";
@@ -395,14 +395,14 @@ _mainpage = (descargaadc.xy.b4xmainpage)(_b4xpages._getpage /*Object*/ (ba,"Main
  //BA.debugLineNum = 382;BA.debugLine="If MainPage.carg1=False Then";
 if (_mainpage._carg1 /*boolean*/ ==__c.False) { 
  //BA.debugLineNum = 383;BA.debugLine="Log(\"CARG1 es falsa\")";
-__c.LogImpl("23604512","CARG1 es falsa",0);
+__c.LogImpl("83342368","CARG1 es falsa",0);
  };
  //BA.debugLineNum = 385;BA.debugLine="MainPage.carg1=True";
 _mainpage._carg1 /*boolean*/  = __c.True;
  //BA.debugLineNum = 386;BA.debugLine="If MainPage.carg1=True Then";
 if (_mainpage._carg1 /*boolean*/ ==__c.True) { 
  //BA.debugLineNum = 387;BA.debugLine="Log(\"CARG1 es ok\")";
-__c.LogImpl("23604516","CARG1 es ok",0);
+__c.LogImpl("83342372","CARG1 es ok",0);
  };
  //BA.debugLineNum = 389;BA.debugLine="llenar.Enabled=False";
 _llenar.setEnabled(__c.False);
@@ -411,7 +411,7 @@ _llenar.setVisible(__c.False);
  //BA.debugLineNum = 391;BA.debugLine="If MainPage.master=False Then";
 if (_mainpage._master /*boolean*/ ==__c.False) { 
  //BA.debugLineNum = 392;BA.debugLine="Log(\"master 1 es false \")";
-__c.LogImpl("23604521","master 1 es false ",0);
+__c.LogImpl("83342377","master 1 es false ",0);
  };
  //BA.debugLineNum = 399;BA.debugLine="If MainPage.master=True Then";
 if (_mainpage._master /*boolean*/ ==__c.True) { 
@@ -1753,8 +1753,8 @@ public String  _llenar_click() throws Exception{
  //BA.debugLineNum = 1492;BA.debugLine="Private Sub llenar_Click";
  //BA.debugLineNum = 1497;BA.debugLine="If  marca2.SelectedIndex=0 Then";
 if (_marca2.getSelectedIndex()==0) { 
- //BA.debugLineNum = 1498;BA.debugLine="marca2.SelectedIndex =2";
-_marca2.setSelectedIndex((int) (2));
+ //BA.debugLineNum = 1498;BA.debugLine="marca2.SelectedIndex =1";
+_marca2.setSelectedIndex((int) (1));
  };
  //BA.debugLineNum = 1500;BA.debugLine="If  marca3.SelectedIndex=0 Then";
 if (_marca3.getSelectedIndex()==0) { 

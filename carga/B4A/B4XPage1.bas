@@ -1501,7 +1501,7 @@ Private Sub llenar_Click
 '		marca1.SelectedIndex =1
 '	End If
 	If  marca2.SelectedIndex=0 Then
-		marca2.SelectedIndex =2
+		marca2.SelectedIndex =1
 	End If
 	If  marca3.SelectedIndex=0 Then
 		marca3.SelectedIndex=1

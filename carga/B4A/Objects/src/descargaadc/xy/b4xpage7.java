@@ -437,9 +437,9 @@ _mainpage = (descargaadc.xy.b4xmainpage)(_b4xpages._getpage /*Object*/ (ba,"Main
  //BA.debugLineNum = 535;BA.debugLine="MainPage.com3=True";
 _mainpage._com3 /*boolean*/  = __c.True;
  //BA.debugLineNum = 536;BA.debugLine="Log(\"COM3\")";
-__c.LogImpl("233882147","COM3",0);
+__c.LogImpl("866584611","COM3",0);
  //BA.debugLineNum = 537;BA.debugLine="Log(MainPage.COM3)";
-__c.LogImpl("233882148",BA.ObjectToString(_mainpage._com3 /*boolean*/ ),0);
+__c.LogImpl("866584612",BA.ObjectToString(_mainpage._com3 /*boolean*/ ),0);
  //BA.debugLineNum = 540;BA.debugLine="ScrollView1.Panel.Height = Panel2.Height";
 _scrollview1.getPanel().setHeight(_panel2.getHeight());
  //BA.debugLineNum = 551;BA.debugLine="B4XPages.AddMenuItem(Me, \"Info\")";

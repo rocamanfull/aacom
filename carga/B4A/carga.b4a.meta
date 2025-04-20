@@ -46,6 +46,6 @@ ModuleClosedNodes6=
 ModuleClosedNodes7=
 ModuleClosedNodes8=
 ModuleClosedNodes9=
-NavigationStack=B4XPage1,Button2_Click,1473,0,Diseñador Visual,carg2finalmod2bac2.bal,-100,1,Diseñador Visual,carg2finalmod6.bal,-100,2,B4XPage1,llenar_Click,1498,1,B4xPage3,Class_Globals,0,0,B4xPage3,B4XPage_Created,456,0,B4xPage3,llenar_Click,1608,0,B4xPage3,Button2_Click,1511,0,B4XPage1,B4XPage_Created,350,0,B4XMainPage,B4XPage_Created,390,0,B4XMainPage,final,1835,6
+NavigationStack=Diseñador Visual,carg2finalmod6.bal,-100,3,B4xPage3,Class_Globals,0,0,B4XMainPage,informe2,954,0,B4XMainPage,test_Click,2280,0,B4XMainPage,prueba_Click,1544,0,B4XMainPage,final,1735,6,B4XPage1,Class_Globals,0,0,Diseñador Visual,carga3.bal,-100,1,B4XPage1,llenar_Click,1497,0,B4XMainPage,var_TextChanged,1697,0,B4XMainPage,B4XPage_Created,306,1
 SelectedBuild=0
 VisibleModules=1,2,3,11,15,4,5,7,8,9

@@ -96,7 +96,7 @@ _videofilename = "1.mp4";
  //BA.debugLineNum = 52;BA.debugLine="cam.Initialize(pnlCamera)";
 _cam._initialize /*String*/ (ba,(anywheresoftware.b4a.objects.PanelWrapper) anywheresoftware.b4a.AbsObjectWrapper.ConvertToWrapper(new anywheresoftware.b4a.objects.PanelWrapper(), (android.view.ViewGroup)(_pnlcamera.getObject())));
  //BA.debugLineNum = 53;BA.debugLine="Log(cam.SupportedHardwareLevel)";
-__c.LogImpl("28650764",_cam._getsupportedhardwarelevel /*String*/ (),0);
+__c.LogImpl("88388620",_cam._getsupportedhardwarelevel /*String*/ (),0);
  //BA.debugLineNum = 54;BA.debugLine="buttons = Array(btnScene, btnAutoExposure, btnEff";
 _buttons = anywheresoftware.b4a.keywords.Common.ArrayToList(new Object[]{(Object)(_btnscene.getObject()),(Object)(_btnautoexposure.getObject()),(Object)(_btneffects.getObject()),(Object)(_btnfocus.getObject()),(Object)(_btnmode.getObject())});
  //BA.debugLineNum = 55;BA.debugLine="SetState(False, False, VideoMode)";
@@ -119,7 +119,7 @@ public String  _b4xpage_disappear() throws Exception{
  //BA.debugLineNum = 152;BA.debugLine="cam.Stop";
 _cam._stop /*String*/ ();
  //BA.debugLineNum = 153;BA.debugLine="Log(\"camarastop\")";
-__c.LogImpl("29240578","camarastop",0);
+__c.LogImpl("88978434","camarastop",0);
  //BA.debugLineNum = 157;BA.debugLine="End Sub";
 return "";
 }
@@ -555,7 +555,7 @@ return "";
 public String  _handleerror(anywheresoftware.b4a.objects.B4AException _error) throws Exception{
  //BA.debugLineNum = 199;BA.debugLine="Sub HandleError (Error As Exception)";
  //BA.debugLineNum = 200;BA.debugLine="Log(\"Error: \" & Error)";
-__c.LogImpl("29502721","Error: "+BA.ObjectToString(_error),0);
+__c.LogImpl("89240577","Error: "+BA.ObjectToString(_error),0);
  //BA.debugLineNum = 201;BA.debugLine="ToastMessageShow(Error, True)";
 __c.ToastMessageShow(BA.ObjectToCharSequence(_error.getObject()),__c.True);
  //BA.debugLineNum = 202;BA.debugLine="OpenCamera(frontCamera)";
@@ -675,7 +675,7 @@ case 8:
 this.state = 9;
 ;
  //BA.debugLineNum = 98;BA.debugLine="Log(\"Start success: \" & Success)";
-parent.__c.LogImpl("28781838","Start success: "+BA.ObjectToString(_success),0);
+parent.__c.LogImpl("88519694","Start success: "+BA.ObjectToString(_success),0);
  //BA.debugLineNum = 99;BA.debugLine="SetState(Success, False, VideoMode)";
 parent._setstate(_success,parent.__c.False,parent._videomode);
  //BA.debugLineNum = 100;BA.debugLine="If Success = False Then";
@@ -975,7 +975,7 @@ _a = parent.__c.File.ReadString(parent._calidad,"planilla2.txt");
  //BA.debugLineNum = 216;BA.debugLine="u=a";
 _u = (double)(Double.parseDouble(_a));
  //BA.debugLineNum = 217;BA.debugLine="Log(\"A ES \"& a)";
-parent.__c.LogImpl("29568268","A ES "+_a,0);
+parent.__c.LogImpl("89306124","A ES "+_a,0);
  //BA.debugLineNum = 219;BA.debugLine="If u=8 Then";
 if (true) break;
 
@@ -1036,7 +1036,7 @@ parent._cam._datatofile /*String*/ (_data,parent._videofiledir,_filename);
 _bmp = new anywheresoftware.b4a.objects.drawable.CanvasWrapper.BitmapWrapper();
 _bmp = parent._cam._datatobitmap /*anywheresoftware.b4a.objects.drawable.CanvasWrapper.BitmapWrapper*/ (_data);
  //BA.debugLineNum = 246;BA.debugLine="Log(\"Picture taken: \" & bmp) 'ignore";
-parent.__c.LogImpl("29568297","Picture taken: "+BA.ObjectToString(_bmp),0);
+parent.__c.LogImpl("89306153","Picture taken: "+BA.ObjectToString(_bmp),0);
  //BA.debugLineNum = 247;BA.debugLine="pnlBackground.SetVisibleAnimated(100, True)";
 parent._pnlbackground.SetVisibleAnimated((int) (100),parent.__c.True);
  //BA.debugLineNum = 248;BA.debugLine="B4XImageView1.Bitmap = RotateJpegIfNeeded(bmp, D";
